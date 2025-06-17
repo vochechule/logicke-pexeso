@@ -3,6 +3,7 @@ import { generateNumberPairs } from "./data/numbers";
 import { generateColorPairs } from "./data/colors";
 import { generateSymbolPairs } from "./data/symbols";
 import "./styles/App.css";
+//import "./styles/Troll.css";
 import ParticleBackground from './components/ParticleBackground';
 
 
